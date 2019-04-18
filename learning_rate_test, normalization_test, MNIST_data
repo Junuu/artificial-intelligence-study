@@ -1,2 +1,8 @@
+learning_rate를 변경함에 따라 학습률이 달라지는 것을 보여줍니다
+normalizatin(정규화)를 하지않은 데이터의 경우 학습이 잘 되지 않으므로 정규화를 해주어야 합니다.
+MNIST_data 숫자인식
+
+링크를 타고가시면 코드를 보실 수 있습니다.
+
 https://colab.research.google.com/drive/1krs09lhOq-DXysob5LdM7K5dmFbDOaBy 
 
