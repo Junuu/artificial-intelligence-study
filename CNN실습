@@ -1,0 +1,6 @@
+CNN 실습
+MNIST 데이터를 이용
+다층레이어를 쌓고 max_pool 과 dropout을 사용한 CNN 모델구현
+
+링크를 타고 가시면 코드를 볼 수 있습니다.
+https://colab.research.google.com/drive/1aqgckL_bLzMt_ztMuqeTeNUgvUnvKcl3
